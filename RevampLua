@@ -1,4 +1,4 @@
-loadstring(game:HttpGet"https://raw.githubusercontent.com/wubf9723brf7892bf8ywbfybfffff/NewUpdateThanksForwating-/main/SourceEpicLol")()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/GuizzyisbackV2LOL/LuaTime-/main/ObfLuaSource")()
 loadstring(game:HttpGet"https://raw.githubusercontent.com/wubf9723brf7892bf8ywbfybfffff/AutoJoinDiscord/main/yep")()
 --Boronide™ Premium Obfuscation, v0.6.1
 --Do Not Remove Loadingstring!
